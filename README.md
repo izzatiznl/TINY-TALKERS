@@ -13,4 +13,17 @@ Tiny Talkers – An educational MIT App Inventor app for kids to learn English v
 - **Shake Interaction:** Shake the device to change images into number characters for vocabulary practice.
 - **User-Friendly Interface:** Colorful and easy-to-navigate screens suitable for young learners.
 
+How to Open the Project:
+A)Import Project in MIT App Inventor
+1.Open the MIT App Inventor website: MIT App Inventor
+2.Sign in using a Google account.
+3.Click Create Apps.
+4.Select Projects → Import project (.aia) from my computer.
+5.Choose the provided .aia file.
+6.Wait for the project to load.
 
+B)Test on Android Device
+1.Install the official MIT AI2 Companion App on your Android device.
+2.In MIT App Inventor, click Connect → AI Companion.
+3.Scan the QR code displayed on the screen.
+The application will run directly on your device.
